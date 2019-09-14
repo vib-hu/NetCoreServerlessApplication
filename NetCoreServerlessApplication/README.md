@@ -1,0 +1,2 @@
+# NetCoreServerlessApplication
+NetCoreServerlessApplication

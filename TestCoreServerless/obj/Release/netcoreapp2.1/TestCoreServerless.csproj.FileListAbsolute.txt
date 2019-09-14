@@ -1,0 +1,14 @@
+C:\Users\vibhu.mishra\source\repos\TestCoreServerless\TestCoreServerless\bin\Release\netcoreapp2.1\TestCoreServerless.deps.json
+C:\Users\vibhu.mishra\source\repos\TestCoreServerless\TestCoreServerless\bin\Release\netcoreapp2.1\TestCoreServerless.runtimeconfig.json
+C:\Users\vibhu.mishra\source\repos\TestCoreServerless\TestCoreServerless\bin\Release\netcoreapp2.1\TestCoreServerless.runtimeconfig.dev.json
+C:\Users\vibhu.mishra\source\repos\TestCoreServerless\TestCoreServerless\bin\Release\netcoreapp2.1\TestCoreServerless.dll
+C:\Users\vibhu.mishra\source\repos\TestCoreServerless\TestCoreServerless\bin\Release\netcoreapp2.1\TestCoreServerless.pdb
+C:\Users\vibhu.mishra\source\repos\TestCoreServerless\TestCoreServerless\obj\Release\netcoreapp2.1\TestCoreServerless.csprojAssemblyReference.cache
+C:\Users\vibhu.mishra\source\repos\TestCoreServerless\TestCoreServerless\obj\Release\netcoreapp2.1\TestCoreServerless.csproj.CoreCompileInputs.cache
+C:\Users\vibhu.mishra\source\repos\TestCoreServerless\TestCoreServerless\obj\Release\netcoreapp2.1\TestCoreServerless.RazorAssemblyInfo.cache
+C:\Users\vibhu.mishra\source\repos\TestCoreServerless\TestCoreServerless\obj\Release\netcoreapp2.1\TestCoreServerless.RazorAssemblyInfo.cs
+C:\Users\vibhu.mishra\source\repos\TestCoreServerless\TestCoreServerless\obj\Release\netcoreapp2.1\TestCoreServerless.AssemblyInfoInputs.cache
+C:\Users\vibhu.mishra\source\repos\TestCoreServerless\TestCoreServerless\obj\Release\netcoreapp2.1\TestCoreServerless.AssemblyInfo.cs
+C:\Users\vibhu.mishra\source\repos\TestCoreServerless\TestCoreServerless\obj\Release\netcoreapp2.1\TestCoreServerless.RazorTargetAssemblyInfo.cache
+C:\Users\vibhu.mishra\source\repos\TestCoreServerless\TestCoreServerless\obj\Release\netcoreapp2.1\TestCoreServerless.dll
+C:\Users\vibhu.mishra\source\repos\TestCoreServerless\TestCoreServerless\obj\Release\netcoreapp2.1\TestCoreServerless.pdb
